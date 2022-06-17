@@ -1,10 +1,9 @@
 ![banner (1)](https://user-images.githubusercontent.com/76683598/121713108-1baeb000-cafa-11eb-955e-c970d98952e6.png)
 
 <h1 align="center"> I'm Riddhi Shivhare</h1>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif?cid=ecf05e47jbmwy62epkaodtesdqcekekx7v4hb08zl851g51w&rid=giphy.gif&ct=g">
 
-<h3 align="center">A computer science enthusiast from India who loves creating and exploring new things</h3>
-<h3 align="center">Pursuing my B.Tech from  Graphic Era University, Dehradun in Artificial Intelligence & Data Science</h3>
+<h3 align="center">A computer science enthusiast from India who loves creating and exploring new things.</h3>
+<h3 align="center">Pursuing my B.Tech from  Graphic Era University, Dehradun in Artificial Intelligence & Data Science.</h3>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
